@@ -6,3 +6,5 @@
   },
   "postCreateCommand": "corepack enable && corepack prepare pnpm@latest --activate && pnpm install"
 }
+npm install
+npm start
